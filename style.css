@@ -1,11 +1,9 @@
 body
 {
-    background-color: pink;
-    color: rgb(47, 154, 255);
+    background-color: rgb(255, 251, 192);
+    color: black;
     font-size: 12pt;
     font-family: Arial, Helvetica, sans-serif;
-
-    background-image: linear-gradient( 90deg, pink, yellow);
 }
 
 h1{ font-size: 30px;
@@ -18,51 +16,18 @@ h2{ font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     }
 
-    .titulo1{ 
+    .titulo1{
         color: green;
-    }
-
-    .titulo2{
-        color: purple;
-    }
-
-    .titulo3{
-        color: orange;
-    }
-
-    #tituloprincipal{
-        color: red;
     }
 
 a{
     text-decoration: none;
-    color: grey;
-}
-
-#titulodicas{
     color: orange;
 }
+
 
 .paragrafo1{
 color: purple;
 font-size: 16pt;
 font-family: Arial, Helvetica, sans-serif;
-}
-
-.paragrafo2{
-    color: red;
-font-size: 20pt;
-font-family: Verdana, Geneva, Tahoma, sans-serif
-}
-
-.paragrafo3{
-    color: green;
-    font-size: 16pt;
-font-family: Arial, Helvetica, sans-serif;
-}
-
-.paragrafo4{
-color: rgb(47, 154, 255);
-font-size: 20pt;
-font-family: Verdana, Geneva, Tahoma, sans-serif
 }
